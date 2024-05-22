@@ -1,3 +1,41 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "a7bc",
+      "title": "Learn HTML",
+      "complete": true
+    },
+    {
+      "id": "7641",
+      "title": "Learn CSS",
+      "complete": true
+    },
+    {
+      "id": "6a6b",
+      "title": "Learn Bootstrap",
+      "complete": true
+    },
+    {
+      "id": "51ac",
+      "title": "Learn .NET",
+      "important": true,
+      "complete": false
+    },
+    {
+      "id": "7ead",
+      "title": "Learn .NET Web API",
+      "important": true
+    },
+    {
+      "id": "2ec6",
+      "title": "Watch Anime",
+      "important": true,
+      "complete": false
+    },
+    {
+      "id": "1de7",
+      "title": "Learn Angular",
+      "important": true
+    }
+  ]
 }
